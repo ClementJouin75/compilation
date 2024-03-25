@@ -1,0 +1,4 @@
+let toto ;
+let titi ;
+2 * (titi + 999999)
+- 50 / toto
